@@ -1,0 +1,42 @@
+#navbarNav1{
+    
+
+    color: black;
+    font-size: 15px;
+    font-weight: bolder;
+    
+ }
+.form-label{
+    
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 250px;
+    margin: 20px; 
+    margin-top: 20px;
+}
+
+
+ .form-control{
+ background-color: gray;
+ color: gray;
+    
+} 
+.nav{
+box-shadow: 20px;
+}
+#text{
+    font-size: larger;
+    color: yellow;
+    align-items: center;
+}
+
+.input{
+    margin: 200px;
+}
+h6{
+    font-size: 20px;
+}
+.text-center{
+    color: #FFC518;
+}
